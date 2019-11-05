@@ -1,0 +1,23 @@
+{
+  "name": "create-defend",
+  "version": "1.0.0",
+  "description": "Create Data Estate FrontEND application.",
+  "main": "cli.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "create-defend": "./cli.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://Rolfchen@github.com/Rolfchen/create-defend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rolfchen/create-defend/issues"
+  },
+  "homepage": "https://github.com/Rolfchen/create-defend#readme"
+}
