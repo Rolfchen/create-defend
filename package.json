@@ -14,8 +14,8 @@
     "url": "git+https://Rolfchen@github.com/Rolfchen/create-defend.git"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Rolf Che <rolf@rolfchen.com>",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/Rolfchen/create-defend/issues"
   },
